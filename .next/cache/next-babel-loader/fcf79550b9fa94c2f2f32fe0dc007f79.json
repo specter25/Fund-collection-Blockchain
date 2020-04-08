@@ -1,0 +1,1 @@
+{"ast":null,"code":"var routes = require('next-routes')();\n\nroutes.add('/campaigns/new', '/campaigns/new').add('/campaigns/:address', '/campaigns/show');\nmodule.exports = routes;","map":null,"metadata":{},"sourceType":"script"}

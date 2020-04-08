@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\n\nclass RequestIndex extends Component {\n  render() {\n    return __jsx(\"div\", null, __jsx(\"h3\", null, \"Request List\"));\n  }\n\n}\n\nexport default RequestIndex;","map":null,"metadata":{},"sourceType":"module"}

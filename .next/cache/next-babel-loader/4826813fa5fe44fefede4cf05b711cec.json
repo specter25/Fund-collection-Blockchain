@@ -1,0 +1,1 @@
+{"ast":null,"code":"import web3 from './web3';\nimport Campaign from './build/Campaign.json';\n\nconst createCampaign = async address => {\n  return new web3.eth.Contract(JSON.parse(Campaign.interface), address);\n};\n\nexport default createCampaign;","map":null,"metadata":{},"sourceType":"module"}

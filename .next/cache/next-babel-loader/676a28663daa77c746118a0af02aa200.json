@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\n\nclass RequestNew extends Component {\n  render() {\n    return __jsx(\"div\", null, __jsx(\"h3\", null, \"addd new Route\"));\n  }\n\n}\n\nexport default RequestNew;","map":null,"metadata":{},"sourceType":"module"}
